@@ -57,7 +57,8 @@ int main()
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/5edf18ac-451e-4c71-aedc-0dca0d77fe4e)
+<img width="813" height="517" alt="image" src="https://github.com/user-attachments/assets/c0c834f8-6dbe-42c8-819c-52fd54f262d1" />
+
 
 ## RESULT:
 Thus Pseudorandom Number Generation Using Standard library has been executed successfully
